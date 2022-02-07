@@ -1,6 +1,8 @@
 #include<string>
 using namespace std;
 
+//lj git test
+
 class Messager {
 protected:
     MessagerImp* messagerImp;
