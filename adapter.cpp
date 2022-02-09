@@ -10,6 +10,8 @@ public:
     virtual int bar() = 0;
 };
 
+
+
 // 遗留类型仍符合老的接口
 class OldClass : public IAdaptee {
 public:
